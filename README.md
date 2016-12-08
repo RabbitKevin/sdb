@@ -1,3 +1,3 @@
-# simpledb
-Simple database implementation for 6.814
+# sdb
+Simple database implementation (FA15)
 Status: Finished all labs
